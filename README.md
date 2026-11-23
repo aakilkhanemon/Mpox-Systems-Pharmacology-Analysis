@@ -1,4 +1,4 @@
-# Systems Pharmacology & Network Topology Framework for Tri-Modal Mpox Therapeutics
+# Systems Pharmacology and Network Topology Framework for Tri-Modal Mpox Therapeutics
 
 [![ChemRxiv](https://img.shields.io/badge/ChemRxiv-10.26434%2Fchemrxiv.15003736%2Fv1-b31b1b.svg)](https://doi.org/10.26434/chemrxiv.15003736/v1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
